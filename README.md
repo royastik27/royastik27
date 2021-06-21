@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m a student of Computer Science and Engineering at Islamic University (Session: 2019-20).
-:blue_heart: I love competitive programming and web developing.
-:iphone: https://www.facebook.com/royastik27/
+🌱 I’m a student of Computer Science and Engineering at Islamic University (Session: 2019-20).  
+:blue_heart: I love competitive programming and web developing.  
+:iphone: https://www.facebook.com/royastik27/  
 :telephone_receiver: https://m.me/royastik27
