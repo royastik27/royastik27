@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 💬 Ask me about DSA, MERN stack and other Computer Science stuffs.
 
 ## 🧰 My toolbox
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10em" height="10em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100em" height="100em" />
 
 ## 📞 Connect with me
 :iphone: https://www.facebook.com/royastik27/  
