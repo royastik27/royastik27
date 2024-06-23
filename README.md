@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 
 
 🤵 I’m a student of Computer Science and Engineering at Islamic University (currently at 3rd year).  
-:blue_heart: I love competitive programming and web developing.
-🔭 I’m currently working on a MERN stack.
-🌱 I’m currently learning advance DSA and acquiring in-depth knowledge of MERN.
-:sparkling_heart: I enjoy working on challenging projects that need some brainstorming to get things done.
-💬 Ask me about DSA, MERN stack and other Computer Science stuffs.
+:blue_heart: I love competitive programming and web developing.  
+🔭 I’m currently working on a MERN stack.  
+🌱 I’m currently learning advance DSA and acquiring in-depth knowledge of MERN.  
+:sparkling_heart: I enjoy working on challenging projects that need some brainstorming to get things done.  
+💬 Ask me about DSA, MERN stack and other Computer Science stuffs.  
 
 ## 🧰 My toolbox
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
