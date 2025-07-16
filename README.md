@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-🤵 I’m a student of Computer Science and Engineering at Islamic University (currently at 3rd year).  
+🤵 I’m a student of Computer Science and Engineering at Islamic University (currently at final year).  
 :blue_heart: I love competitive programming and web developing.  
 🔭 I’m currently working on MERN stack.  
 🌱 I’m currently learning advance DSA and acquiring in-depth knowledge of MERN.  
